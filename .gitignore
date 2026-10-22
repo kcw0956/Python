@@ -1,0 +1,9 @@
+
+# Local environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+.tmp.driveupload/
